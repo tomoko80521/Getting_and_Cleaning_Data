@@ -1,2 +1,7 @@
-# Getting_and_Cleaning_Data
-Cousera
+### Getting and Cleaning Data
+
+Course Project
+
+Need to change the following directory to appropriate directory.
+R_dir <- "/Users/tomoko/RWorkspace/data/"
+
